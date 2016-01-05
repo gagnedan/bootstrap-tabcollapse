@@ -14,6 +14,15 @@ Tabs component is given `hidden-xs`-class and accordion component is given `visi
 
 **[Demo](http://tabcollapse.okendoken.com/example/example.html)**
 
+Installation
+------------
+
+    bower install bootstrap-tabcollapse
+    
+or
+
+    npm install bootstrap-tabcollapse
+
 Use
 ------------
 
